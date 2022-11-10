@@ -4,4 +4,5 @@ def mane_function():
     c = 4+4
 def test_function():
     Print "Hello"
+    Print "World"
     
