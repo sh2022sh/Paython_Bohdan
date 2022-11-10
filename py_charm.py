@@ -3,4 +3,4 @@ def mane_function():
     b = 3+3
     pass
 
-Print "OK"
+print("OK")
